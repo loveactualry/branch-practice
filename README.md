@@ -4,4 +4,4 @@
 
 
 
-- yangjun-ux: 양준
+- yangjun-ux: 양준(Jun Yang)
