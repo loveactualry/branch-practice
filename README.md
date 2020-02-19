@@ -2,8 +2,7 @@
 
 ## users
 
-- yeejun: Yeejun Song
-
+- Yeejun Song
 
 
 
