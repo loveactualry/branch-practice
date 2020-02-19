@@ -2,7 +2,7 @@
 
 ## users
 
-- yeejun: 송이준
+- yeejun: 송이준(Yeejun Song)
 
 
 
