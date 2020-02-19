@@ -2,4 +2,4 @@
 
 ## users
 
-- ulgoon: Wooyoung Choi
+- ulgoon: 최우영
