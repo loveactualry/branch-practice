@@ -4,4 +4,4 @@
 
 
 
-- yangjun-ux: Jun Yang
+- Jun Yang
